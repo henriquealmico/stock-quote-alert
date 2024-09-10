@@ -1,0 +1,11 @@
+{
+  "WebSocketUri": "wss://streamer.finance.yahoo.com",
+  "EmailSettings": {
+    "FromEmail": "email@email.com",
+    "ToEmail": "email@email.com",
+    "SmtpServer": "smtp.gmail.com",
+    "SmtpPort": 587,
+    "EmailPassword": "password"
+  },
+  "ReconnectionDelayMs": 5000
+}
